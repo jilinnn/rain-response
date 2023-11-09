@@ -9,10 +9,10 @@ The program begins by setting predetermined Arduino pins to inputs and outputs n
 ## Usage
 
 This program was used for the microcontroller in a hands-on project, namely a "Rain-Sensing System for Automobiles." At the top of the program, multiple variables are mapped to various components of the device: 
--`rainSensor`      maps to the photoelectric liquid-level sensor;
--`ledMOSFET`       maps to a MOSFET that controls the brightness of two LEDS;
--`motorMOSFET`     maps to a MOSFET that controls the speed of a DC motor;
--`relayControl`    controls the direction of a DC motor (by flipping the voltage polarity across the motor).
+- `rainSensor`      maps to the photoelectric liquid-level sensor;
+- `ledMOSFET`       maps to a MOSFET that controls the brightness of two LEDS;
+- `motorMOSFET`     maps to a MOSFET that controls the speed of a DC motor;
+- `relayControl`    controls the direction of a DC motor (by flipping the voltage polarity across the motor).
 
 The device in action can be found in the YouTube video [here](https://youtu.be/iX7MvlwBTv4).
 
