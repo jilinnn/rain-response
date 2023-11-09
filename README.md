@@ -16,4 +16,4 @@ The device in action can be found in the YouTube video [here](https://youtu.be/i
 
 A full report of the project can be found [here](https://drive.google.com/file/d/1Iep5V_OFfq52zuf6BuwZ7WUe4qnY6N2o/view?usp=sharing).
 
-Project Timeline: May-June 2023
+Project Timeline: May - June 2023
