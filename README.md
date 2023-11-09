@@ -1,4 +1,4 @@
-# Rain-Sensing System for Automobiles
+# Rain-Response
 
 A brief Arduino program that samples the voltage outputted by a photoelectric liquid-level sensor.
 
