@@ -1,7 +1,5 @@
 # Rain-Response
 
-A brief Arduino program that samples the voltage outputted by a photoelectric liquid-level sensor.
-
 ## Description
 
 The program begins by setting predetermined Arduino pins to inputs and outputs needed in the device. Two helper functions are used throughout the program, namely `countDrops`and `motorControl`, with the former sampling the amount of 'rain' detected on the photoelectric liquid-level sensor and the latter setting the speed and direction of a DC motor (behaves as windshield wipers). The loop function in the program continuously checks the number of 'drops of rain' on the photoelectric liquid-level sensor by calling the countDrops helper function, and changes the brightness of the LEDs, as well as the motor configuration via the motorControl helper function, accordingly.
