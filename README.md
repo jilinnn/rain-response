@@ -12,7 +12,9 @@ This program was used for the microcontroller in a hands-on project, namely a "R
 - `motorMOSFET`     maps to a MOSFET that controls the speed of a DC motor;
 - `relayControl`    controls the direction of a DC motor (by flipping the voltage polarity across the motor).
 
-The device in action can be found in the YouTube video [here](https://youtu.be/iX7MvlwBTv4).
+The device in action can be found in the YouTube video below!.
+
+[![Demo Video](https://img.youtube.com/vi/iX7MvlwBTv4/0.jpg)](https://youtu.be/iX7MvlwBTv4)
 
 A full report of the project can be found [here](https://drive.google.com/file/d/1Iep5V_OFfq52zuf6BuwZ7WUe4qnY6N2o/view?usp=sharing).
 
